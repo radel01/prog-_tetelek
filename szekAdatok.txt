@@ -1,0 +1,4 @@
+Szin@lábszám
+kék@3
+piros@4
+zöld@5
